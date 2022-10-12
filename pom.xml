@@ -8,11 +8,6 @@
   <packaging>pom</packaging>
   <name>OCOIntegration</name>
   <description>OCOIntegration</description>
-  <modules>
-    <module>OCOIntegration_sandbox_registry</module>
-    <module>OCOIntegration_configs</module>
-    <module>OCOIntegration_sandbox_deploy</module>
-  </modules>
   <scm>
     <connection>scm:git:https://github.com/username/repository.git</connection>
     <developerConnection>scm:git:https://github.com/username/repository.git</developerConnection>
